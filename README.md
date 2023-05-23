@@ -2,15 +2,8 @@
 Pedro Enrique Ecsedei Martins
 
 <div style="display: flex;">
-
-<p >
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
-
-<p>
-  <img alt="Pedro Profile Picture" src="https://avatars.githubusercontent.com/u/96201154?v=4" width="100px" />
-</p>
-  
+    <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
+    <img alt="Pedro Profile Picture" src="https://avatars.githubusercontent.com/u/96201154?v=4" width="100px" />
 </div>
 
 ## 💻 Projeto
