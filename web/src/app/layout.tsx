@@ -34,7 +34,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       >
         <main className="relative grid min-h-screen grid-cols-2">
           {/* left */}
-          <div className="ov relative flex flex-col items-start justify-between overflow-hidden border-r border-white/10 bg-[url(../assets/bg-stars.svg)] px-28 py-16">
+          <div className="relative flex flex-col items-start justify-between overflow-hidden border-r border-white/10 bg-[url(../assets/bg-stars.svg)] px-28 py-16">
             {/* blur */}
             <div className="absolute right-0 top-1/2 h-[288px] w-[526px] -translate-y-1/2 translate-x-1/2 rounded-full bg-purple-700 opacity-50 blur-full" />
 
@@ -46,7 +46,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
             <Copyright />
           </div>
 
-          <div className="relative flex max-h-screen flex-col overflow-y-scroll bg-[url(../assets/bg-stars.svg)] scrollbar-thin scrollbar-thumb-purple-600">
+          <div className="relative flex max-h-screen flex-col overflow-x-hidden overflow-y-scroll bg-[url(../assets/bg-stars.svg)] scrollbar-thin scrollbar-thumb-purple-600">
             {children}
           </div>
         </main>

@@ -23,6 +23,7 @@ export async function memoriesRoutes(app: FastifyInstance) {
         coverUrl: memory.coverUrl,
         excerpt: memory.content.substring(0, 115).concat('...'),
         createdAt: memory.createdAt,
+        content: memory.content,
       }
     })
   })
