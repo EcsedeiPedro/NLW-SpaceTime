@@ -11,7 +11,7 @@
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
 <p align="center">
-  Feito com 💜 by Rocketseat - Pedro Ecsedei
+  Feito com 💜 by Rocketseat - <a href="https://www.linkedin.com/in/pedromartins02920/" target="_blank">Pedro Ecsedei</a>
 </p>
 
 <!--START_SECTION:footer-->
